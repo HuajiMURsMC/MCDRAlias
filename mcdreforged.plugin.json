@@ -1,0 +1,10 @@
+{
+    "id": "alias",
+    "version": "1.0.0",
+    "name": "Alias",
+    "description": "A simple command alias plugin for MCDReforged",
+    "author": [
+        "Huaji_MUR233"
+    ],
+    "link": "https://github.com/HuajiMURsMC/MCDRAlias"
+}
